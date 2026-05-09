@@ -9,3 +9,5 @@ pyproject.toml
 # Virtual environments
 .venv
 main.py
+.python-version
+.gitignore
